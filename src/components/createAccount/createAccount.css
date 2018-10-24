@@ -1,0 +1,23 @@
+body {
+  padding: 10%;
+}
+
+.float-right {
+  float: right;
+}
+
+#signUp-div {
+  max-width: 400px;
+}
+
+#facebook {
+  background-color: #3b5998;
+}
+
+#google {
+  background-color: #db4437;
+}
+
+#twitter {
+  background-color: #1da1f2;
+}

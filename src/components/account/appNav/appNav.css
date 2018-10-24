@@ -1,0 +1,13 @@
+#appNav-div {
+  padding: 125px 50px;
+
+  background-color: rgb(240, 240, 240);
+  color: rgb(200, 200, 200);
+  border-right: 1px solid rgb(225, 225, 225);
+  max-width: 500px;
+  min-height: 100vh;
+}
+
+#appNav-div h3 {
+  text-align: center;
+}
