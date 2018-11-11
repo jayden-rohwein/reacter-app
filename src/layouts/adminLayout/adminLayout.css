@@ -1,0 +1,17 @@
+#menuButton {
+  position: absolute;
+
+  padding: 5px;
+}
+#sideMenu {
+  z-index: 500;
+}
+#navBar {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+#childrenDiv {
+  margin-top: 500px;
+}
